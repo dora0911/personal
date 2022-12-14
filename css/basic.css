@@ -370,7 +370,7 @@
 }
 .achievement{
     width:1400px;
-    height:480px;
+    height:500px;
     margin: 0 auto;
     position: relative;
 }
@@ -409,14 +409,14 @@
     z-index: 1002;
 }
 .ach-content{
-    width:26.5%;
+    width:28.5%;
     margin-bottom: 20px;
     background-color: #fff;
     box-shadow: 1px 2px 2px gray;
     border-radius: 15px;
     border: 1px solid brown;
     opacity:90%;
-    box-shadow: 8px 9px 2px brown;
+    box-shadow: 4px 4px 2px brown;
     z-index: 1002;
 }
 .ach-content h1{
@@ -461,6 +461,8 @@
     width:1400px;
     margin: 0 auto;
     position: relative;
+    background: rgb(244, 217, 221);
+    color: white;
 }
 .size{
     width: 70px;
@@ -487,10 +489,6 @@
     background: #000;
     color: white;
     border: 1px solid black;
-}
-.my-intro{
-    background: rgb(244, 205, 211);
-    color: white;
 }
 .my-intro>h1{
     font-size: 28px;
